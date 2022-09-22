@@ -1,4 +1,4 @@
-/*Javier Edgardo Mejía Rodríguez */
+/*Javier Edgardo Mejía Rodríguez*/
 
 USE Northwind;
 
